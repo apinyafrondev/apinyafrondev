@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Apinya S.
 =================================================================================================================================
 
-Freelance Software developer in physical world.
+Freelance software developer in physical world.
 -----------------------------------------------
 
 I'm software developer, gold goal is up skill to develop code and network infrastructure, my hobby is learn new programming languages and more framework to useful in my work.
